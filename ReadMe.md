@@ -3,8 +3,6 @@
 # Hi there 👋, I'm Altaf Khan
 
 
-![counter](https://en83s1703hg8xbh.m.pipedream.net)
-
 ## About Me
 <h4>I'm a Full-Stack Developer and Professional Trainer with a knack for translating complex web development concepts into easy-to-understand terms. While I thoroughly enjoy teaching and mentoring, I'm also open to opportunities to bring my skills into a hands-on full-stack development role.</h4>
 
