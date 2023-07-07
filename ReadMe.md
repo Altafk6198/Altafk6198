@@ -1,6 +1,11 @@
+![](https://komarev.com/ghpvc/?username=altafk618)
+
 ![Banner](https://github.com/Altafk6198/Altafk6198/assets/101108751/2be5c6b3-d603-4f8a-afbe-b97a790190e9)
 
 # Hi there 👋, I'm Altaf Khan
+
+
+
 
 
 ## About Me
