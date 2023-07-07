@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=altafk618)
+![](https://komarev.com/ghpvc/?username=altafk618&color=green)
 
 ![Banner](https://github.com/Altafk6198/Altafk6198/assets/101108751/2be5c6b3-d603-4f8a-afbe-b97a790190e9)
 
