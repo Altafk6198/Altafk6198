@@ -59,9 +59,6 @@
 
 https://kawa-altaf-khan.netlify.app/
 
-#### E-Commerce Website
-
-https://desitest-e-commerce-website.vercel.app/Menu
 
 #### Dev-Tools
 
